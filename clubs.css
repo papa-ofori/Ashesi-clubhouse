@@ -1,0 +1,91 @@
+.navbar {
+    background: rgba(136, 4, 4, 0.322);
+    -o-transition: all 0.6s;
+    -moz-transition: all 0.6s;
+    -webkit-transition: all 0.6s;
+    -ms-transition: all 0.6s;
+    transition: all 0.6s;
+    backface-visibility: hidden;
+}
+
+.logo {
+    height: 40px;
+    width: auto;
+}
+
+.jumbotron {
+    background-image: url('movecb.png');
+    width: 100%;
+    color: white;
+}
+
+.btn-primary {
+    background-color: rgb(104, 7, 7);
+    border-color: rgb(104, 7, 7);
+}
+
+.btn-secondary {
+    background-color: transparent;
+    border-color: rgb(104, 7, 7);
+    color: rgb(104, 7, 7);
+}
+
+.page-footer {
+    background-color: #222;
+    color: #ccc;
+    padding: 60px 0 30px;
+    margin-top: 5px;
+}
+
+.footer-copyright {
+    color: #666;
+    padding: 40px 0;
+}
+
+.navbar {
+    background: rgba(136, 4, 4, 0.322);
+    -o-transition: all 0.6s;
+    -moz-transition: all 0.6s;
+    -webkit-transition: all 0.6s;
+    -ms-transition: all 0.6s;
+    transition: all 0.6s;
+    backface-visibility: hidden;
+}
+
+.logo {
+    height: 40px;
+    width: auto;
+}
+
+.jumbotron {
+    background-image: url('movecb.png');
+    width: 100%;
+    color: white;
+}
+
+.btn-primary {
+    background-color: rgb(104, 7, 7);
+    border-color: rgb(104, 7, 7);
+}
+
+.btn-secondary {
+    background-color: transparent;
+    border-color: rgb(104, 7, 7);
+    color: rgb(104, 7, 7);
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+.page-footer {
+    background-color: #222;
+    color: #ccc;
+    padding: 60px 0 30px;
+    margin-top: 5px;
+}
+
+.footer-copyright {
+    color: #666;
+    padding: 40px 0;
+}

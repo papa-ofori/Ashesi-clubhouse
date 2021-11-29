@@ -1,0 +1,41 @@
+.navbar {
+    background: rgba(136, 4, 4, 0.322);
+    -o-transition: all 0.6s;
+    -moz-transition: all 0.6s;
+    -webkit-transition: all 0.6s;
+    -ms-transition: all 0.6s;
+    transition: all 0.6s;
+    backface-visibility: hidden;
+}
+
+.logo {
+    height: 40px;
+    width: auto;
+}
+
+.event {
+    background-image: url('ashpic.jpg');
+    height: 150px;
+}
+
+.textEvent {
+    padding-top: 12px;
+    height: 60px;
+    font-size: 45px;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    background-image: url('movecb.png');
+}
+
+.page-footer {
+    background-color: #222;
+    color: #ccc;
+    padding: 60px 0 30px;
+    margin-top: 5px;
+}
+
+.footer-copyright {
+    color: #666;
+    padding: 40px 0;
+}
